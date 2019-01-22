@@ -1,0 +1,21 @@
+DONE: Change icons
+
+DONE: Update pages to reflect icons
+
+TODO: Copyright
+-Read license
+-Updated copyright logo
+
+DONE: Update font family
+
+TODO: Create additional buttons for music sites
+-Add Deezer, Pandora, Tidal, Amazon
+
+DONE: Create buttons for social media sites
+
+TODO: Fix sites with our discography
+-Google lists Book of Complaints as by Bijan Eghtesady
+-YouTube Music doesn't have Book of Complaints
+
+TODO: Upload tracks to YouTube
+-Book of Complaints
